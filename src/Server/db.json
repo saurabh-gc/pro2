@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "name": "saurabh",
+      "email": "sk@gmail.com",
+      "city": "ayodhya",
+      "id": "55ef"
+    },
+    {
+      "id": "8255",
+      "name": "Tripti Singh",
+      "email": "triptisingh@gmail.com",
+      "city": "mumbai"
+    },
+    {
+      "name": "Rishabh",
+      "email": "rishu@gmail.com",
+      "city": "California",
+      "id": "88fa"
+    },
+    {
+      "id": "240d",
+      "name": "Rahul",
+      "email": "rahulsingh@gmail.com",
+      "city": "itawa"
+    }
+  ]
+}
